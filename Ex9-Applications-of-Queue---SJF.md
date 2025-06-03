@@ -1,5 +1,5 @@
 # Ex 2D Applications of Queue - SJF
-## DATE: 08/03/2025
+## DATE: 11/04/2025
 ## AIM:
 To incorporate the code to calculate the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
 ## Algorithm
